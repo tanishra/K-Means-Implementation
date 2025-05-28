@@ -53,5 +53,8 @@ PCA reduces high-dimensional data to fewer dimensions (usually 2 or 3) while ret
 
 ---
 
+## 🤝 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
+---
 
